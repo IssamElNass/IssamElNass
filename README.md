@@ -15,7 +15,7 @@ I'm a full stack developer 💻 and student 🎓 from Belgium. Outside my full t
 ### Tech stack 🛠:
 
 #### Programming languages:
-``Javascript C# Java PHP R PL/SQL C
+``JavaScript C# Java PHP R PL/SQL C
  Kotlin Dart VBA HTML(MarkupLanguage)``
  
  #### Technologies:
