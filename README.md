@@ -9,7 +9,7 @@ I'm a full stack developer 💻 and student 🎓 from Belgium. Outside my full t
 - 💻 I'm an alumnus of **Karel de Grote University of Applied Sciences and Arts**
 - 🎓 Currently a student at **Thomas More University of Applied Sciences**
 - 🌐 Visit my [website](https://www.issamelnasiri.com/) to learn more about the projects I've worked on.
-- 📝 Checkout my [résumé](https://drive.google.com/file/d/1A2LvlDPoBWX4sBQcYwPcL1V4Z3E5fhOg/view).
+- 📝 Checkout my [résumé](https://drive.google.com/file/d/1fRvBbl1gPrLddt2kn3XP74RWoK3lO4l5/view).
 
 ---
 ### Tech stack 🛠:
@@ -19,7 +19,7 @@ I'm a full stack developer 💻 and student 🎓 from Belgium. Outside my full t
  Kotlin Dart VBA HTML(MarkupLanguage)``
  
  #### Technologies:
-``Flutter React ReactNative Vue Angular GraphQL Node.js
+``Flutter React React Native Vue Angular GraphQL Node.js
 Express.js .NET Spring Vuex Wordpress Webpack Bootstrap Electron``
  
 ### Latest articles/tutorials 📰:
